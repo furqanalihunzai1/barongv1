@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: tradante/barong-custom:v-2.6.44
+          tags: tradante/barong-custom:v-2.6.44-latest
