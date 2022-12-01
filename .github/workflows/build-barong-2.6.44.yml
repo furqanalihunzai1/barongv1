@@ -1,4 +1,4 @@
-name: Build barong.
+name: Build barong Version 2.6.44
 
 on:
   push:
