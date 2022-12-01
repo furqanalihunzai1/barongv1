@@ -93,7 +93,6 @@ end
 
 group :development do
   gem 'grape_on_rails_routes', '~> 0.3.2'
-  gem 'web-console', '>= 3.7.0'
   gem 'listen',       '>= 3.0.5', '< 3.2'
   gem 'annotate', '~> 2.7', '>= 2.7.5'
 end
